@@ -21,3 +21,9 @@ Tambien usando la ayuda de Metamask se pueden hacer transferencias de Eth en est
 En esta wallet tambien es posible ver la ultima transaccion que involucro la cuenta seleccionada. Para esto se busco la transaccion en los bloques de la cadena.
 
 El diseño de esta interfaz web es completamente resposiva.
+
+![Ethereum_Wallet](/imgs/1b.PNG)
+
+![Ethereum_Wallet](/imgs/2b.PNG)
+
+![Ethereum_Wallet](/imgs/3b.PNG)
