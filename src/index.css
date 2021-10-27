@@ -1,0 +1,108 @@
+/* background #150050 */
+
+html, *{
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.app-content{
+  /* background-color: #150050; */
+  background-color: #091353;
+  color: #fff;
+}
+
+/* NAVBAR */
+/* nav{
+  padding: 20px;
+  font-size: 15px;
+} */
+
+/* Content */
+.all-content{
+  height: 1000px;
+}
+
+.app-logo{
+  height: 120px;
+  color: white;
+  /* text-align: center; */
+}
+
+.logo{
+  width: 100%;
+  display:block;
+  /* margin-left: 45%; */
+  margin-right: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.balance{
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.transfer{
+  width:50%;
+  /* display:block; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#a-seta, #a-import{
+  float: left;
+  /* width: 25px; */
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#input-seta, #input-import{
+  margin-top: 5px;
+}
+
+#input-seta{
+  width:100px
+}
+
+.more{
+position: relative;}
+
+.btn-more{
+  margin: 0;
+  padding: 3px;
+  margin-top: 20px;
+  /* margin-left: 45%; */
+  text-align: center;
+}
+
+.transactions{
+  /* padding-top: 25px; */
+  height: 150px;
+  background-color: black;
+  margin: 0 20%;
+  margin-top: 20px;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.p-transactions{
+  padding-top: 20px;
+  color: #77D970;
+  padding-left: 20px;
+}
+
+.p-transactions span{
+  color: #610094;
+  /* margin-top: 10px; */ 
+}
+
+/* .show>.dropdown-menu {
+  display: block;
+  position: absolute;
+}
+
+.ui.dropdown .visible.menu {
+  display: inline-block !important;
+} */
