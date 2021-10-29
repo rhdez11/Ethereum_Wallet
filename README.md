@@ -14,7 +14,7 @@ Tambien fue necesario el uso de Node.js en esta aplicacion.
 
 Gracias al uso de Web3.js esta wallet tiene varias funcionalidades.
 
-Dentro de ellas estan incluidas: Crear una cuenta, Cambiar de cuenta, Importar una cuenta de otra Wallet.
+Dentro de ellas estan incluidas: Crear una cuenta, Cambiar de cuenta, Importar una cuenta de otra Wallet. Asi como tambien poder ver la llave privada de la cuenta actual para poder importar la cuenta ent otra Wallet.
 
 Tambien usando la ayuda de Metamask se pueden hacer transferencias de Eth en esta aplicacion.
 
